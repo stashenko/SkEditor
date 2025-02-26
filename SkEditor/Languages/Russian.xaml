@@ -387,7 +387,7 @@
 	<system:String x:Key="CommandGeneratorGenerate">Создать</system:String>
 	<system:String x:Key="CommandGeneratorPropertyMissing">Свойство {0} является обязательным!</system:String>
 
-	<!-- Marketplace -->
+	<!-- Торговая площадка -->
 	<system:String x:Key="MarketplaceSearch">Поиск</system:String>
 	<system:String x:Key="MarketplaceEnableNow">Включите его</system:String>
 	<system:String x:Key="MarketplaceInstallSuccess">Успешно загружено {0}!</system:String>
@@ -418,7 +418,7 @@
 	<system:String x:Key="ThemeEditorLineNumber">Номер строки</system:String>
 	<system:String x:Key="ThemeEditorSelection">Выделение</system:String>
 	<system:String x:Key="ThemeEditorSelectedTabBackground">Выбранный фон вкладки</system:String>
-	<system:String x:Key="ThemeEditorSelectedTabBorder">Выбранная вкладка border</system:String>
+	<system:String x:Key="ThemeEditorSelectedTabBorder">Выбранная граница вкладки</system:String>
 	<system:String x:Key="ThemeEditorMenuBackground">Фон меню</system:String>
 	<system:String x:Key="ThemeEditorMenuBorder">Граница меню</system:String>
 	<system:String x:Key="ThemeEditorFocusedTextBoxBackground">Фон текстового поля с фокусом</system:String>
